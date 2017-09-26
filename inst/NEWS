@@ -1,0 +1,49 @@
+
+version 0.0.2: (2015-6-25)
+- first version, doesn't work
+
+version 0.1.0: (2015-7-5)
+- work now, with built-in examples. (see ?TravisPlot)
+
+version 0.2.0: (2015-8-5)
+- added promoter and tail (see ?getNeighborhood)
+- import NarrowPeak from MACS2 (see ?narrowPeak2GRanges)
+- plot mRNA and lncRNA in a single figure
+
+version 0.3.0: (2015-9-11)
+- enable the rescaling of genomic components
+- enable the ambiguous mapping of genomic features
+- completed a tutorial
+
+version 0.99.9: (2015-9-25)
+- package renamed as "guitar" 
+
+version 0.99.15: (2015-9-30)
+- accepted at Biconductor
+
+version 0.99.17: (2015-10-09)
+- added more examples
+- genomic landmarks overlaps
+- mouse BS-Seq
+- mouse BAM and BED3
+
+version 1.3.0: (2015-10-18)
+- bug fix
+- Committing Changes to the Release Branch
+
+
+version 1.9.3: (2016-4-2)
+- Quality Check; Revised Package Overview
+
+version 1.9.4: (2016-4-15)
+- Bug Fix
+
+version 1.9.6: (2016-6-17)
+- Added "adjust" parameter to GuitarPlot function
+
+version 1.9.6: (2016-6-17)
+- Added "adjust" parameter to GuitarPlot function
+
+Version: 1.11.9 (2016-7-14)
+- Added "combinedGuitarPlot" function to support comparison of different species within a single figure.
+- Allow rescale
